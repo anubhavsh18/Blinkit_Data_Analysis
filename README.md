@@ -9,7 +9,7 @@ This project provides an in-depth data analysis dashboard for Blinkit, a fast-gr
 
 📈 **Key KPIs Tracked**
 
-💰 Total Sales – $1.20M overall revenue from all items sold
+💰Total Sales: Overall revenue generated from all items sold ($1.20M)
 
 📊 Average Sales per Transaction – $141
 
