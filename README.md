@@ -1,12 +1,13 @@
-🛒 Blinkit Data Analysis Dashboard 📊
+🛒 **Blinkit Data Analysis Dashboard** 📊
+
 A comprehensive Power BI dashboard to analyze Blinkit's sales performance, customer preferences, and inventory distribution across various outlet types and sizes.
 
 
-📌 Project Overview
+📌 **Project Overview**
 
 This project provides an in-depth data analysis dashboard for Blinkit, a fast-growing online grocery delivery platform. Using Power BI, the dashboard transforms raw data into meaningful visual insights to help stakeholders make data-driven decisions about sales strategy, customer satisfaction, and product placement.
 
-📈 Key KPIs Tracked
+📈 **Key KPIs Tracked**
 
 💰 Total Sales – $1.20M overall revenue from all items sold
 
@@ -16,7 +17,8 @@ This project provides an in-depth data analysis dashboard for Blinkit, a fast-gr
 
 ⭐ Average Customer Rating – 3.9 out of 5
 
-🚀 Dashboard Features
+🚀 **Dashboard Features**
+
 🎛️ Filter Panel – Interactive slicers for:
 
 Outlet location type (Tier 1, Tier 2, Tier 3)
@@ -45,7 +47,9 @@ Average Ratings
 
 Item Visibility
 
-🔍 Insights & Conclusions
+🔍Insights & Conclusions
+
+
 ✅ Strong sales performance exceeding $1 million in total revenue
 
 🥗 Increasing consumer preference for low-fat items shows a health-conscious trend
@@ -56,7 +60,8 @@ Item Visibility
 
 🛍️ Supermarkets drive high sales volumes, while grocery stores offer better product visibility
 
-🧰 Tools Used
+🧰** Tools Used**
+
 Power BI (Data Modeling, DAX, Visualizations)
 
 Excel (Data Cleaning & Preprocessing)
