@@ -1,4 +1,4 @@
-🛒 **Blinkit Data Analysis Dashboard** 📊
+🛒 ##**Blinkit Data Analysis Dashboard** 📊
 
 A comprehensive Power BI dashboard to analyze Blinkit's sales performance, customer preferences, and inventory distribution across various outlet types and sizes.
 
